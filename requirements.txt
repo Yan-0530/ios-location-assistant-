@@ -1,0 +1,2 @@
+# GUI uses Python's built-in tkinter; phone backend is isolated by the app.
+pymobiledevice3==11.63.1

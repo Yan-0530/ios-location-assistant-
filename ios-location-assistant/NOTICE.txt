@@ -1,0 +1,5 @@
+发布声明
+虚拟定位助手目前仅通过 GitHub 官方仓库发布。禁止二次转载或转售本软件。
+
+Distribution notice
+The official GitHub repository is currently the only release channel for Location Assistant. Republishing or reselling this software is prohibited.
